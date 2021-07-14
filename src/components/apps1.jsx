@@ -6,7 +6,7 @@ function App1() {
      
        <div>
          <h2><center> Utilización de Compenentes</center></h2>
-            <p><center><strong>Sitio en Desarrllos para el futuro Porfolio</strong></center></p>
+            <p><center><strong>Sitio en Desarrallo para el futuro Porfolio</strong></center></p>
             <p> <center> Estare trabajando en modo Freelance para capacitarme como desarrollador</center></p>                                     
        </div>
       
