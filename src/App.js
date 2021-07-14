@@ -7,8 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-          Informacion de Actualización del sitio de la aplicacion de React JS en GitHub
-          
+          Mi primer sitio de una aplicacion de React JS en GitHub para el Porfolio Personal
+
         </h1> 
       </header>
     </div>
