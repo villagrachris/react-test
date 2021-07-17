@@ -10,8 +10,11 @@ function App1() {
             <p> <center> Estare trabajando en modo Freelance para capacitarme como desarrollador</center></p>                                     
        </div>
       
+
+
    );
 
 }
+
 
 export default App1;
