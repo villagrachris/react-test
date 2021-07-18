@@ -19,11 +19,19 @@ function App2() {
         //<center>Hello World!</center>
         //</div>
         
-        <div style={divStyle}>
+        //<div style={divStyle}>
             
-            <p><centre>Utilizar estilos en el segundo componente</centre></p>
+        //    <p><centre>Utilizar estilos en el segundo componente</centre></p>
             
-        </div> 
+        //</div> 
+
+        <form>
+           <label>
+            Name:
+           <input type="text" name="Nombre" />
+           </label>
+           <input type="submit" value="Enviar" />
+        </form>
          
 
     );
