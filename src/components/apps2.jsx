@@ -2,12 +2,12 @@
 import React from 'react';
 
 
-const divStyle = {
-    color: 'blue',
-    font: 'italic',
-    fontsize: '40',
+//const divStyle = {
+//    color: 'blue',
+//    font: 'italic',
+//    fontsize: '40',
 
-  };
+//  };
 
 
 
@@ -25,13 +25,13 @@ function App2() {
             
         //</div> 
 
-        <form>
+        <form><center>
            <label>
-            Name:
+            Visitante:
            <input type="text" name="Nombre" />
            </label>
            <input type="submit" value="Enviar" />
-        </form>
+        </center></form>
          
 
     );
